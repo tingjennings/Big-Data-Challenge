@@ -1,10 +1,8 @@
 # Big Data - "Alexa, can you handle big data?"
 
-### 
+Use folder names corresponding to the challenges: **level-1** or  **level-2**.
 
-# Inside local git repository, create a directory for the level of challenge Challenge you choose. Use folder names corresponding to the challenges: **level-1** or  **level-2**.
-
-# Download a Google Colab Notebook as a `ipynb` file and add it to this folder. This will be the main script to run for analysis. Be sure to also add any SQL queries used to a `.sql` file and add it to repo. Gain a much greater understanding of ETL processes in Big Data using PySpark and using AWS's Relational Databases if do complete it.
+ Download a Google Colab Notebook as a `ipynb` file and add it to this folder. This will be the main script to run for analysis. Be sure to also add any SQL queries used to a `.sql` file and add it to repo. Gain a much greater understanding of ETL processes in Big Data using PySpark and using AWS's Relational Databases if do complete it.
 
 ## Background
 
