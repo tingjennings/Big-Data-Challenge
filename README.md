@@ -118,4 +118,4 @@ Amazon customer Reviews Dataset. (n.d.). Retrieved April 08, 2021, from: [https:
 
 - - -
 
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+© 2021 Ting Jennings. Confidential and Proprietary. All Rights Reserved.
