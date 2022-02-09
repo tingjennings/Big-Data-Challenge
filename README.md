@@ -1,4 +1,4 @@
-# Big Data - "Alexa, can you handle big data?"
+# Big Data 
 
 Use folder names corresponding to the challenges: **level-1** or  **level-2**.
 
